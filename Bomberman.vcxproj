@@ -120,6 +120,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Bomba.cpp" />
     <ClCompile Include="Cancha.cpp" />
     <ClCompile Include="Controladora.cpp" />
     <ClCompile Include="Items.cpp" />
@@ -127,6 +128,7 @@
     <ClCompile Include="Jugador.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Bomba.h" />
     <ClInclude Include="Cancha.h" />
     <ClInclude Include="Controladora.h" />
     <ClInclude Include="Items.h" />
